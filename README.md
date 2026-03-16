@@ -1,5 +1,6 @@
 # Power BI E-Commerce Sales Dashboard
-
+## Project Objective
+Analyze e-commerce sales data to identify revenue trends, top performing product categories, customer order distribution, and business insights using Power BI dashboards.
 This project analyzes e-commerce sales data using Power BI.
 
 ## Key Insights
@@ -14,3 +15,4 @@ This project analyzes e-commerce sales data using Power BI.
 Power BI
 Data Visualization
 DAX
+Data Modelling
